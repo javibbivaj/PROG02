@@ -5,17 +5,24 @@
  */
 package prog2;
 
+import java.io.PrintStream;
+
 /**
  *
  * @author JaviB BivaJ
  */
 public class PROG2 {
 
+     
+    
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    }
+                
+
+    } 
+    
     
 }
